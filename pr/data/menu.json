@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "category": "Hot Beverages",
+        "name": "Espresso",
+        "description": "Rich and bold espresso shot",
+        "price": 2.99,
+        "image": "/static/images/espresso.jpg"
+    },
+    {
+        "id": 2,
+        "category": "Hot Beverages",
+        "name": "Cappuccino",
+        "description": "Espresso with steamed milk and foam",
+        "price": 3.99,
+        "image": "/static/images/cappuccino.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Hot Beverages",
+        "name": "Cafe Latte",
+        "description": "Espresso with steamed milk",
+        "price": 3.99,
+        "image": "/static/images/latte.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Cold Beverages",
+        "name": "Iced Coffee",
+        "description": "Chilled coffee with ice",
+        "price": 3.49,
+        "image": "/static/images/iced-coffee.jpg"
+    },
+    {
+        "id": 5,
+        "category": "Cold Beverages",
+        "name": "Frappe",
+        "description": "Blended coffee with whipped cream",
+        "price": 4.99,
+        "image": "/static/images/frappe.jpg"
+    }
+]
